@@ -1,0 +1,58 @@
+.title_1 {
+    text-align: center;
+    border: black solid 3px;
+    background-color: lightblue;
+    
+
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: black 1.4px solid;
+}
+
+.description {
+    text-align: center;
+}
+
+#intro {
+    text-align: left;
+}
+
+.subsection {
+    padding: auto;
+    text-align: center;
+    
+}
+
+#ingredients,
+#equipment {
+    background-color: lightblue;
+    border: black 1.4px solid;
+    display: inline;
+}
+
+.info {
+    justify-content: space-between;
+    display: flex;
+    width: 99.4%;
+}
+
+
+
+.box {
+    width: 200px;
+    padding-top: 0px;
+    border: red black 3px;
+}
+
+
+
+.directions {
+}
+
